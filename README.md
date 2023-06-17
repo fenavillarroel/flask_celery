@@ -3,6 +3,10 @@ Ejemplo Flask https://testdriven.io/courses/flask-celery/getting-started/
 
 Debe tener instalado o corriendo Redis
 
+```
+docker run -d -p 6379:6379 redis
+```
+
 ## Clone proyecto
 
 ```
